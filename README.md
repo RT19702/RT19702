@@ -2,7 +2,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=RT19702)
 
+<a href="https://wakatime.com/@612b4793-5263-42e7-bd30-ab9033b37519"><img src="https://wakatime.com/badge/user/612b4793-5263-42e7-bd30-ab9033b37519.svg" alt="Total time coded since Sep 5 2022" /></a>
+
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <!--

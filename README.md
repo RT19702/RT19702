@@ -6,7 +6,7 @@
 
 Last 7 days:
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=RT19702)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=RT19702&layout=compact)
 
 <!--START_SECTION:waka-->
 

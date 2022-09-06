@@ -4,6 +4,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/612b4793-5263-42e7-bd30-ab9033b37519.svg)](https://wakatime.com/@612b4793-5263-42e7-bd30-ab9033b37519)
 
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=RT19702)]
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->

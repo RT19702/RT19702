@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=RT19702)
 
-!https://wakatime.com/badge/user/612b4793-5263-42e7-bd30-ab9033b37519.svg!:https://wakatime.com/@612b4793-5263-42e7-bd30-ab9033b37519
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 
 <!--START_SECTION:waka-->
 

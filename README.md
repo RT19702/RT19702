@@ -11,3 +11,5 @@
 - 🌱 Learning all about:
     ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
     ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)!
+<p><span>Total code time :</span> <img style="margin-top:3px;" src="https://wakatime.com/badge/user/35c7ff7b-50b4-4816-9263-38b08e3c771c.svg"/></p>
+![1](https://wakatime.com/share/@RT19702/852f4051-03bf-428c-b207-6b4999aaa2e6.svg)

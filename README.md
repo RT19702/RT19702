@@ -12,6 +12,6 @@
     ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
     ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)!
     
-<p>Last 30 Days :</p>
+<p>Last 7 Days :</p>
 
- ![1](https://wakatime.com/share/@RT19702/7da7288b-6a49-4a48-9c22-ba32de908ee5.svg)
+![1](https://wakatime.com/share/@RT19702/946141ee-c32b-419c-b173-8c6736510f52.svg)

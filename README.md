@@ -14,4 +14,5 @@
     
 <p>Last 7 Days :</p>
 
-![1](https://wakatime.com/share/@RT19702/946141ee-c32b-419c-b173-8c6736510f52.svg)
+![1](https://wakatime.com/share/@RT19702/7c450355-aa6c-4fb0-bc00-4ae5acf726d6.svg)
+

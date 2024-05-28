@@ -11,8 +11,3 @@
 - 🌱 Learning all about:
     ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
     ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)!
-    
-<p>Last 7 Days :</p>
-
-![1](https://wakatime.com/share/@RT19702/7c450355-aa6c-4fb0-bc00-4ae5acf726d6.svg)
-
